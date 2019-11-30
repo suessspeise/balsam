@@ -1,3 +1,5 @@
+![balsam](example.png)
+
 # balsam
 generates compliment from a library consisting of
  *  nouns (plus information on male/female, singular/plural) (n=100)
@@ -9,4 +11,4 @@ also able to generate a html document with large list of precompiled compliments
 
 Is running on [balsam.camposcampos.de](balsam.camposcampos.de):
 
-![balsam](example.png)
+
